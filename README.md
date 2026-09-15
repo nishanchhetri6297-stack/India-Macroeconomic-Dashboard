@@ -1,5 +1,5 @@
 # India Macroeconomic Dashboard
-![India Macroeconomic Dashboard](dashboard_preview.png)
+![India Macroeconomic Dashboard](Add dashboard_preview.png)
 ## Overview
 
 This project presents an Excel-based dashboard analyzing key macroeconomic indicators of India from 2019 to 2025.
